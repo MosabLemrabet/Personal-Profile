@@ -1,0 +1,69 @@
+body{
+  background-image: url(PP_background2.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+  background-size: cover;
+  margin: 0px 0px 0px 0px;  
+}
+
+.logocontainer{
+  box-shadow: 2px 5px 5px 5px rgb(51, 51, 51);
+  background-color: rgb(121, 176, 207);
+  margin-bottom: 5%;
+}
+
+
+.logo{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 10%;
+  mix-blend-mode: multiply;
+  margin-bottom: 0;
+}
+
+
+.imgtxtcon1{
+  display: inline-flex;
+  text-align: center;
+}
+
+
+.no1, .no2{
+  text-align: center;
+  font-size: 36px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.ovcontainer{
+  margin-bottom: 7%;
+}
+
+.websiteimg1, .websiteimg2{
+  border-radius: 25px;
+  height: auto;
+  width: 50%;
+
+}
+
+.des1{
+  margin-left: 2%;
+  margin-top: 0;
+  font-size: 25px;
+  font-weight: 500;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.imgtxtcon2{
+  display: inline-flex;
+  text-align: center;
+}
+
+.des2{
+  margin-left: 2%;
+  margin-top: 0;
+  font-size: 25px;
+  font-weight: 500;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
